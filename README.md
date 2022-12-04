@@ -1,1 +1,1 @@
-# stock-organizer-naming-service
+# stock-organizer-naming-server
